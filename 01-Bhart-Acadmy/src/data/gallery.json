@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "type": "image",
+    "title": "UPSC Topper Felicitation Ceremony",
+    "date": "October 15, 2023",
+    "description": "Honoring our successful UPSC candidates of 2023 batch",
+    "url": "https://images.pexels.com/photos/7092613/pexels-photo-7092613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 2,
+    "type": "image",
+    "title": "Guest Lecture by IAS Officer",
+    "date": "September 5, 2023",
+    "description": "Special session on administrative challenges by a serving IAS officer",
+    "url": "https://images.pexels.com/photos/6147369/pexels-photo-6147369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "type": "video",
+    "title": "Mock Interview Sessions",
+    "date": "August 20, 2023",
+    "description": "UPSC interview preparation workshop with expert panel",
+    "url": "https://images.pexels.com/photos/7092518/pexels-photo-7092518.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "video_id": "aBcXyZ123"
+  },
+  {
+    "id": 4,
+    "type": "image",
+    "title": "Independence Day Celebrations",
+    "date": "August 15, 2023",
+    "description": "Flag hoisting ceremony with students and faculty",
+    "url": "https://images.pexels.com/photos/1262304/pexels-photo-1262304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 5,
+    "type": "image",
+    "title": "Physical Training Session",
+    "date": "July 25, 2023",
+    "description": "Physical fitness training for defense and police services aspirants",
+    "url": "https://images.pexels.com/photos/6253165/pexels-photo-6253165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 6,
+    "type": "video",
+    "title": "Annual Day Celebration",
+    "date": "July 10, 2023",
+    "description": "Cultural performances and awards ceremony at our annual day",
+    "url": "https://images.pexels.com/photos/7103/writing-notes-idea-conference.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "video_id": "pQrStU456"
+  },
+  {
+    "id": 7,
+    "type": "image",
+    "title": "Library Inauguration",
+    "date": "June 15, 2023",
+    "description": "Opening of our new extended library with 10,000+ books",
+    "url": "https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 8,
+    "type": "image",
+    "title": "Group Discussion Session",
+    "date": "June 5, 2023",
+    "description": "SSB preparation through group discussion activities",
+    "url": "https://images.pexels.com/photos/3153198/pexels-photo-3153198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 9,
+    "type": "video",
+    "title": "Motivational Session",
+    "date": "May 20, 2023",
+    "description": "Special talk by retired Army General on leadership and motivation",
+    "url": "https://images.pexels.com/photos/5428833/pexels-photo-5428833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "video_id": "mNbVcX789"
+  },
+  {
+    "id": 10,
+    "type": "image",
+    "title": "New Batch Orientation",
+    "date": "May 5, 2023",
+    "description": "Welcome and orientation program for new UPSC and MPSC batches",
+    "url": "https://images.pexels.com/photos/6147276/pexels-photo-6147276.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 11,
+    "type": "image",
+    "title": "Career Counseling Camp",
+    "date": "April 15, 2023",
+    "description": "Free career guidance camp for college students",
+    "url": "https://images.pexels.com/photos/7516363/pexels-photo-7516363.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 12,
+    "type": "video",
+    "title": "Current Affairs Workshop",
+    "date": "April 5, 2023",
+    "description": "Interactive workshop on analyzing current affairs for competitive exams",
+    "url": "https://images.pexels.com/photos/5313361/pexels-photo-5313361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "video_id": "cAffXyZ789"
+  }
+]

@@ -1,0 +1,173 @@
+{
+  "site": {
+    "name": "Bharat Success Academy",
+    "tagline": "Shaping Future Leaders",
+    "description": "Premier coaching institute for UPSC, MPSC, Army, and Police examinations"
+  },
+  "nav": {
+    "home": "Home",
+    "courses": "Courses",
+    "faculty": "Faculty",
+    "toppers": "Toppers",
+    "latest": "Latest Updates",
+    "gallery": "Gallery",
+    "about": "About Us",
+    "scholarship": "Scholarship",
+    "contact": "Contact"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  },
+  "language": {
+    "en": "English",
+    "hi": "Hindi",
+    "mr": "Marathi"
+  },
+  "home": {
+    "hero": {
+      "title": "Your Path to Success Begins Here",
+      "subtitle": "Premier institute for Civil Services, Defense, and Police examinations",
+      "cta": "Explore Courses"
+    },
+    "stats": {
+      "years": "Years of Excellence",
+      "selections": "Successful Selections",
+      "faculty": "Expert Faculty Members",
+      "courses": "Specialized Courses"
+    },
+    "intro": {
+      "title": "Why Choose Bharat Success Academy?",
+      "content": "At Bharat Success Academy, we focus on comprehensive development of aspirants through personalized mentoring, quality study materials, and regular performance assessment. Our experienced faculty, most of whom are former civil servants and defense personnel, provide practical insights beyond theoretical knowledge."
+    },
+    "featured": {
+      "title": "Featured Courses",
+      "subtitle": "Discover our specialized coaching programs",
+      "viewAll": "View All Courses"
+    }
+  },
+  "courses": {
+    "title": "Our Courses",
+    "subtitle": "Comprehensive coaching programs for various competitive examinations",
+    "duration": "Duration",
+    "fees": "Course Fees",
+    "batchSize": "Batch Size",
+    "highlights": "Course Highlights",
+    "outcomes": "Learning Outcomes",
+    "apply": "Apply Now",
+    "enquire": "Enquire"
+  },
+  "faculty": {
+    "title": "Our Expert Faculty",
+    "subtitle": "Learn from the best in the field",
+    "experience": "Experience",
+    "subjects": "Subjects",
+    "achievements": "Key Achievements",
+    "viewProfile": "View Profile"
+  },
+  "toppers": {
+    "title": "Our Achievers",
+    "subtitle": "Success stories that inspire us every day",
+    "rank": "Rank",
+    "year": "Year",
+    "currentPosting": "Current Posting",
+    "testimonial": "Testimonial"
+  },
+  "updates": {
+    "title": "Latest Updates",
+    "subtitle": "Stay informed about our recent activities and announcements",
+    "categories": {
+      "all": "All Updates",
+      "batch": "New Batches",
+      "result": "Results",
+      "event": "Events",
+      "scholarship": "Scholarships",
+      "material": "Study Materials"
+    },
+    "readMore": "Read More"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Glimpses of our activities and achievements",
+    "images": "Images",
+    "videos": "Videos",
+    "all": "All"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Know our journey and mission",
+    "mission": {
+      "title": "Our Mission",
+      "content": "To prepare candidates holistically for competitive examinations by focusing on conceptual clarity, analytical skills, and personality development."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "To be the most trusted name in competitive exam coaching across India, known for quality education, ethical practices, and consistent results."
+    },
+    "values": {
+      "title": "Our Values",
+      "integrity": "Integrity",
+      "excellence": "Excellence",
+      "innovation": "Innovation",
+      "respect": "Respect",
+      "accountability": "Accountability"
+    },
+    "history": {
+      "title": "Our Journey",
+      "content": "Established in 2010 by Dr. Rajesh Sharma, a former civil servant, Bharat Success Academy started with a small batch of UPSC aspirants. Over the years, we have expanded to multiple competitive examinations while maintaining our focus on quality education and personalized mentoring."
+    },
+    "testimonials": {
+      "title": "Testimonials",
+      "viewAll": "View All Testimonials"
+    }
+  },
+  "scholarship": {
+    "title": "Scholarship Programs",
+    "subtitle": "Making quality education accessible to deserving candidates",
+    "eligibility": "Eligibility Criteria",
+    "benefits": "Benefits",
+    "applicationProcess": "Application Process",
+    "apply": "Apply Now",
+    "nextTest": "Next Scholarship Test"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help and answer any question you might have",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "course": "Course Interested In",
+      "message": "Your Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "address": "Address",
+      "email": "Email",
+      "phone": "Phone",
+      "hours": "Operating Hours"
+    },
+    "addressLine1": "Bharat Success Academy",
+    "addressLine2": "123, Education Lane, Knowledge Park",
+    "addressLine3": "Pune, Maharashtra - 411001",
+    "emailAddress": "info@bharatsuccessacademy.com",
+    "phoneNumber": "+91-9876543210",
+    "operatingHours": "Monday to Saturday: 9:00 AM to 7:00 PM"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "connect": "Connect With Us",
+    "subscribe": "Subscribe to Newsletter",
+    "subscribeButton": "Subscribe",
+    "copyright": "© 2024 Bharat Success Academy. All Rights Reserved."
+  },
+  "common": {
+    "readMore": "Read More",
+    "viewDetails": "View Details",
+    "apply": "Apply Now",
+    "enquire": "Enquire",
+    "success": "Success",
+    "error": "Error",
+    "loading": "Loading..."
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Rajesh Sharma",
+    "position": "Director & UPSC Expert",
+    "qualification": "Ph.D. in Political Science, IAS (Retd.)",
+    "experience": "25+ years in civil services coaching",
+    "subjects": ["Indian Polity", "International Relations", "Ethics"],
+    "achievements": [
+      "Mentored over 400 successful UPSC candidates",
+      "Former UPSC interview board member",
+      "Author of 5 bestselling books on Indian Administration"
+    ],
+    "image": "https://images.pexels.com/photos/5212703/pexels-photo-5212703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 2,
+    "name": "Col. Vikram Singh",
+    "position": "Defense Services Expert",
+    "qualification": "Retired Colonel, Indian Army",
+    "experience": "18 years in defense services & 10 years in coaching",
+    "subjects": ["CDS Preparation", "SSB Interview", "Military Aptitude"],
+    "achievements": [
+      "Served in counter-terrorism operations",
+      "Recipient of Shaurya Chakra",
+      "Trained over 300 successful defense services candidates"
+    ],
+    "image": "https://images.pexels.com/photos/8113354/pexels-photo-8113354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "name": "Mrs. Varsha Patil",
+    "position": "MPSC Expert",
+    "qualification": "M.A. in History & Public Administration, Former Dy. Collector",
+    "experience": "15+ years in MPSC coaching",
+    "subjects": ["Maharashtra History", "Geography", "Current Affairs"],
+    "achievements": [
+      "Produced 20+ MPSC toppers in the last 5 years",
+      "Author of comprehensive MPSC preparation guide",
+      "Expert in Marathi answer writing techniques"
+    ],
+    "image": "https://images.pexels.com/photos/5212339/pexels-photo-5212339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 4,
+    "name": "Prof. Sunil Deshmukh",
+    "position": "Economics & Statistics Expert",
+    "qualification": "Ph.D. in Economics, Former RBI Consultant",
+    "experience": "20+ years in teaching Economics",
+    "subjects": ["Indian Economy", "Economic Survey", "Statistics"],
+    "achievements": [
+      "Consultant to various state governments",
+      "Published research papers in international journals",
+      "Simplifies complex economic concepts for students"
+    ],
+    "image": "https://images.pexels.com/photos/5905497/pexels-photo-5905497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 5,
+    "name": "Mrs. Priya Joshi",
+    "position": "English & Communication Skills",
+    "qualification": "M.Phil in English Literature",
+    "experience": "12 years in coaching for competitive exams",
+    "subjects": ["English Grammar", "Essay Writing", "Interview Skills"],
+    "achievements": [
+      "Developed unique methodology for essay writing",
+      "Specializes in communication skills for interviews",
+      "Author of 'Mastering English for Competitive Exams'"
+    ],
+    "image": "https://images.pexels.com/photos/3771069/pexels-photo-3771069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 6,
+    "name": "SP Manoj Kumar",
+    "position": "Police Services Expert",
+    "qualification": "Former Superintendent of Police",
+    "experience": "22 years in police service, 8 years in coaching",
+    "subjects": ["Police Administration", "Criminology", "Legal Studies"],
+    "achievements": [
+      "Distinguished service medal recipient",
+      "Expert in physical training techniques",
+      "Developed specialized curriculum for police exam preparation"
+    ],
+    "image": "https://images.pexels.com/photos/8108207/pexels-photo-8108207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]

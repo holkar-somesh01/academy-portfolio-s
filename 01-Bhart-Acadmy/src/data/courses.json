@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "UPSC Civil Services Exam",
+    "description": "Comprehensive coaching for all stages of UPSC CSE including Prelims, Mains, and Interview",
+    "duration": "12 months",
+    "fees": "₹1,25,000",
+    "batch_size": 30,
+    "highlights": [
+      "Study material in English, Hindi, and Marathi",
+      "Regular mock tests and evaluations",
+      "One-on-one mentoring sessions",
+      "Current affairs daily updates",
+      "Special focus on CSAT preparation"
+    ],
+    "outcomes": [
+      "Thorough understanding of UPSC syllabus",
+      "Strong conceptual clarity",
+      "Effective answer writing skills",
+      "Time management techniques",
+      "Interview preparation"
+    ],
+    "image": "https://images.pexels.com/photos/3184639/pexels-photo-3184639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "civil-services"
+  },
+  {
+    "id": 2,
+    "title": "MPSC State Services Exam",
+    "description": "Complete preparation for Maharashtra Public Service Commission exams",
+    "duration": "9 months",
+    "fees": "₹85,000",
+    "batch_size": 25,
+    "highlights": [
+      "Special focus on Maharashtra-specific topics",
+      "Study material in Marathi and English",
+      "Weekly tests and performance analysis",
+      "Current affairs with Maharashtra focus",
+      "Special GS paper preparation"
+    ],
+    "outcomes": [
+      "In-depth knowledge of Maharashtra history and geography",
+      "Strong grasp on state administration",
+      "Effective writing skills for descriptive papers",
+      "Strategic preparation for all stages",
+      "Interview preparation"
+    ],
+    "image": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "state-services"
+  },
+  {
+    "id": 3,
+    "title": "Indian Army Officer Training",
+    "description": "Specialized coaching for CDS, AFCAT, and NDA examinations",
+    "duration": "6 months",
+    "fees": "₹65,000",
+    "batch_size": 20,
+    "highlights": [
+      "Physical fitness training sessions",
+      "Mock SSB interviews and group discussions",
+      "Mathematics and English preparation",
+      "General Knowledge focused on defense",
+      "Personality development sessions"
+    ],
+    "outcomes": [
+      "Strong preparation for written exams",
+      "Improved physical fitness for SSB",
+      "Better communication skills",
+      "Enhanced leadership qualities",
+      "Strategic preparation for SSB interviews"
+    ],
+    "image": "https://images.pexels.com/photos/1709012/pexels-photo-1709012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "defense"
+  },
+  {
+    "id": 4,
+    "title": "Police Services Examination",
+    "description": "Training for State Police Service examinations including Sub-Inspector and PSI posts",
+    "duration": "5 months",
+    "fees": "₹50,000",
+    "batch_size": 25,
+    "highlights": [
+      "Physical training and preparation",
+      "Focus on aptitude and reasoning",
+      "State-specific law and order topics",
+      "Regular mock tests and evaluations",
+      "Interview preparation"
+    ],
+    "outcomes": [
+      "Physical fitness for physical tests",
+      "Strong grip on current affairs related to law and order",
+      "Understanding of legal provisions",
+      "Enhanced logical reasoning abilities",
+      "Interview preparation"
+    ],
+    "image": "https://images.pexels.com/photos/4669116/pexels-photo-4669116.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "police"
+  },
+  {
+    "id": 5,
+    "title": "UPSC CDS Combined Defense Services",
+    "description": "Specialized coaching for entry into Indian Military Academy, Officers Training Academy, Air Force and Naval Academy",
+    "duration": "4 months",
+    "fees": "₹45,000",
+    "batch_size": 20,
+    "highlights": [
+      "Focus on English, Mathematics and General Knowledge",
+      "Weekly mock tests",
+      "SSB interview preparation",
+      "Physical training guidance",
+      "One-on-one doubt clearing sessions"
+    ],
+    "outcomes": [
+      "Strong foundation in Mathematics",
+      "Enhanced English language skills",
+      "Better general awareness",
+      "SSB interview readiness",
+      "Strategic exam preparation"
+    ],
+    "image": "https://images.pexels.com/photos/6920104/pexels-photo-6920104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "defense"
+  },
+  {
+    "id": 6,
+    "title": "MPSC Group B Services",
+    "description": "Focused preparation for Maharashtra PSC Group B examinations including Tax Assistants, Section Officers, etc.",
+    "duration": "7 months",
+    "fees": "₹70,000",
+    "batch_size": 25,
+    "highlights": [
+      "Comprehensive study material",
+      "Regular test series",
+      "Current affairs with Maharashtra focus",
+      "Optional subject specialization",
+      "Interview guidance"
+    ],
+    "outcomes": [
+      "Strong conceptual clarity",
+      "Effective answer writing technique",
+      "Time management skills",
+      "Knowledge of Maharashtra administration",
+      "Interview preparation"
+    ],
+    "image": "https://images.pexels.com/photos/3771074/pexels-photo-3771074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "state-services"
+  }
+]

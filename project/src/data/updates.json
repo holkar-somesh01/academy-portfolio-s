@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "New UPSC Batch Starting Soon",
+    "category": "batch",
+    "date": "2023-12-10",
+    "description": "Our new comprehensive UPSC preparation batch starts from January 15, 2024. Limited seats available. Early bird discounts until December 30.",
+    "link": "/courses/upsc"
+  },
+  {
+    "id": 2,
+    "title": "Congratulations to Our UPSC 2023 Successful Candidates",
+    "category": "result",
+    "date": "2023-11-25",
+    "description": "Proud to announce that 42 of our students have cleared the UPSC Civil Services Examination 2023, with 5 in the top 100 ranks.",
+    "link": "/toppers"
+  },
+  {
+    "id": 3,
+    "title": "Special Seminar: Cracking the MPSC Mains",
+    "category": "event",
+    "date": "2023-12-05",
+    "description": "Join us for a special one-day seminar on effective strategies for the MPSC Mains examination, conducted by Mrs. Varsha Patil.",
+    "link": "/courses/mpsc"
+  },
+  {
+    "id": 4,
+    "title": "Scholarship Test for Defense Services Courses",
+    "category": "scholarship",
+    "date": "2023-12-20",
+    "description": "Announcing a scholarship test for aspiring defense services candidates. Top performers will receive up to 50% scholarship on course fees.",
+    "link": "/scholarship"
+  },
+  {
+    "id": 5,
+    "title": "New Study Material for Police Services Exams Released",
+    "category": "material",
+    "date": "2023-11-15",
+    "description": "We have released updated study materials for Police Services examinations, incorporating the latest pattern changes and focusing on the new syllabus.",
+    "link": "/courses/police"
+  },
+  {
+    "id": 6,
+    "title": "Weekend Batch for Working Professionals",
+    "category": "batch",
+    "date": "2023-12-12",
+    "description": "Introducing weekend batch for working professionals preparing for UPSC and MPSC examinations. Classes will be held on Saturdays and Sundays.",
+    "link": "/courses"
+  },
+  {
+    "id": 7,
+    "title": "Free Webinar on Career in Civil Services",
+    "category": "event",
+    "date": "2023-12-18",
+    "description": "Join our free webinar on 'Building a Career in Civil Services' conducted by Dr. Rajesh Sharma, featuring insights from recent UPSC toppers.",
+    "link": "/contact"
+  },
+  {
+    "id": 8,
+    "title": "MPSC 2023 Results: 35 Selections from Our Academy",
+    "category": "result",
+    "date": "2023-11-30",
+    "description": "Congratulations to our 35 students who have successfully cleared the MPSC State Services Examination 2023, including 3 in the top 10 ranks.",
+    "link": "/toppers"
+  }
+]

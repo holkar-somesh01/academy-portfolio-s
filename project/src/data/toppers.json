@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Patel",
+    "exam": "UPSC Civil Services",
+    "rank": 24,
+    "year": 2023,
+    "current_posting": "IAS, Maharashtra Cadre",
+    "testimonial": "Bharat Success Academy's structured approach and personalized mentoring helped me achieve my dream of becoming an IAS officer. The faculty's guidance on answer writing and interview preparation was exceptional.",
+    "image": "https://images.pexels.com/photos/8108150/pexels-photo-8108150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 2,
+    "name": "Priya Sharma",
+    "exam": "MPSC State Services",
+    "rank": 5,
+    "year": 2023,
+    "current_posting": "Deputy Collector, Pune",
+    "testimonial": "The comprehensive study material and regular test series at Bharat Success Academy were crucial in my MPSC preparation. The faculty's in-depth knowledge of Maharashtra-specific topics gave me an edge in the examination.",
+    "image": "https://images.pexels.com/photos/3772509/pexels-photo-3772509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "name": "Lt. Vikram Thapar",
+    "exam": "CDS (Combined Defense Services)",
+    "rank": "AIR 12",
+    "year": 2022,
+    "current_posting": "Lieutenant, Indian Army",
+    "testimonial": "The specialized defense services coaching at Bharat Success Academy, especially the SSB interview preparation and physical training guidance, was instrumental in my selection. Col. Singh's mentoring made all the difference.",
+    "image": "https://images.pexels.com/photos/7148384/pexels-photo-7148384.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 4,
+    "name": "Neha Kulkarni",
+    "exam": "UPSC Civil Services",
+    "rank": 87,
+    "year": 2022,
+    "current_posting": "IPS, Karnataka Cadre",
+    "testimonial": "From day one, Bharat Success Academy's focus on fundamentals and current affairs analysis helped me develop a holistic understanding of the UPSC syllabus. The mock interviews were almost identical to my actual UPSC interview.",
+    "image": "https://images.pexels.com/photos/5905900/pexels-photo-5905900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 5,
+    "name": "Raj Deshmukh",
+    "exam": "Maharashtra Police Service",
+    "rank": "State Rank 3",
+    "year": 2023,
+    "current_posting": "Police Sub-Inspector, Mumbai",
+    "testimonial": "The specialized training for police services examinations at Bharat Success Academy, combining physical training with academic preparation, was perfectly balanced. SP Kumar's insights from his service experience were invaluable.",
+    "image": "https://images.pexels.com/photos/8108215/pexels-photo-8108215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 6,
+    "name": "Anjali Gaikwad",
+    "exam": "MPSC Group B",
+    "rank": 8,
+    "year": 2022,
+    "current_posting": "Section Officer, Maharashtra Secretariat",
+    "testimonial": "The bilingual approach (Marathi and English) and focus on Maharashtra-centric issues at Bharat Success Academy helped me excel in my MPSC examination. The regular mock tests were particularly helpful in improving my performance.",
+    "image": "https://images.pexels.com/photos/8108138/pexels-photo-8108138.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]

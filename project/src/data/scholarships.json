@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Merit Scholarship Program",
+    "description": "Based on academic performance and entrance test scores",
+    "eligibility": [
+      "Minimum 75% marks in graduation",
+      "Good performance in our entrance test",
+      "Valid for all courses"
+    ],
+    "benefits": [
+      "Up to 50% fee waiver based on performance",
+      "Free study materials",
+      "Priority access to faculty for doubt solving"
+    ],
+    "application_process": "Apply through our scholarship portal and appear for entrance test scheduled monthly"
+  },
+  {
+    "id": 2,
+    "title": "Economically Weaker Section Scholarship",
+    "description": "Financial assistance for deserving candidates from economically weaker backgrounds",
+    "eligibility": [
+      "Annual family income below ₹4 lakhs",
+      "Valid EWS certificate from competent authority",
+      "Minimum 70% marks in graduation"
+    ],
+    "benefits": [
+      "Up to 75% fee waiver",
+      "Free hostel accommodation (subject to availability)",
+      "Installment facility for remaining fees"
+    ],
+    "application_process": "Submit application with income certificate, academic records, and appear for interview"
+  },
+  {
+    "id": 3,
+    "title": "Special Scholarship for Women Candidates",
+    "description": "Encouraging women participation in civil services and defense examinations",
+    "eligibility": [
+      "Female candidates",
+      "Minimum 70% marks in graduation",
+      "Valid for all courses"
+    ],
+    "benefits": [
+      "30% fee waiver",
+      "Special mentoring sessions",
+      "Reserved seats in hostel accommodation"
+    ],
+    "application_process": "Direct application through our portal with academic records and statement of purpose"
+  },
+  {
+    "id": 4,
+    "title": "Armed Forces Dependents Scholarship",
+    "description": "For wards of serving/retired defense personnel and war veterans",
+    "eligibility": [
+      "Valid relationship proof with defense personnel",
+      "Minimum 65% marks in graduation",
+      "Preference to wards of war veterans and martyrs"
+    ],
+    "benefits": [
+      "40% fee waiver",
+      "Special counseling for defense services exams",
+      "Additional physical training sessions"
+    ],
+    "application_process": "Submit service details of parent/guardian along with relationship proof and academic records"
+  },
+  {
+    "id": 5,
+    "title": "Rural Background Scholarship",
+    "description": "Supporting candidates from rural areas to pursue civil services",
+    "eligibility": [
+      "Candidates from villages with population less than 10,000",
+      "Minimum 10 years of residence in rural area",
+      "Valid for UPSC and MPSC courses"
+    ],
+    "benefits": [
+      "35% fee waiver",
+      "Bilingual study support",
+      "Special foundation courses"
+    ],
+    "application_process": "Submit rural residence certificate from Gram Panchayat, academic records, and appear for interview"
+  }
+]
