@@ -40,7 +40,7 @@ const Navbar = () => {
         </Link>
 
         {/* Desktop Navigation */}
-        <div className="hidden md:flex space-x-1">
+        <div className="hidden md:flex gap-4 space-x-1">
           {navLinks.map((link) => (
             <NavLink
               key={link.name}

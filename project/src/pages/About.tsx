@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import { Shield, Target, Lightbulb, Heart, Clock } from 'lucide-react';
 
 import toppersData from '../data/toppers.json';
+import { Link } from 'react-router-dom';
 
 const container = {
   hidden: { opacity: 0 },
@@ -26,30 +27,30 @@ const About: React.FC = () => {
   const testimonials = toppersData.slice(0, 3);
 
   const values = [
-    { 
-      icon: <Shield className="h-8 w-8 text-primary-500" />, 
-      title: t('about.values.integrity'), 
-      description: "We uphold the highest standards of honesty and ethical conduct in all our interactions." 
+    {
+      icon: <Shield className="h-8 w-8 text-primary-500" />,
+      title: t('about.values.integrity'),
+      description: "We uphold the highest standards of honesty and ethical conduct in all our interactions."
     },
-    { 
-      icon: <Target className="h-8 w-8 text-secondary-500" />, 
-      title: t('about.values.excellence'), 
-      description: "We strive for excellence in education, mentoring, and student outcomes." 
+    {
+      icon: <Target className="h-8 w-8 text-secondary-500" />,
+      title: t('about.values.excellence'),
+      description: "We strive for excellence in education, mentoring, and student outcomes."
     },
-    { 
-      icon: <Lightbulb className="h-8 w-8 text-accent-500" />, 
-      title: t('about.values.innovation'), 
-      description: "We constantly evolve our teaching methodologies and content to stay relevant." 
+    {
+      icon: <Lightbulb className="h-8 w-8 text-accent-500" />,
+      title: t('about.values.innovation'),
+      description: "We constantly evolve our teaching methodologies and content to stay relevant."
     },
-    { 
-      icon: <Heart className="h-8 w-8 text-error-500" />, 
-      title: t('about.values.respect'), 
-      description: "We treat every student, staff member, and stakeholder with dignity and respect." 
+    {
+      icon: <Heart className="h-8 w-8 text-error-500" />,
+      title: t('about.values.respect'),
+      description: "We treat every student, staff member, and stakeholder with dignity and respect."
     },
-    { 
-      icon: <Clock className="h-8 w-8 text-success-500" />, 
-      title: t('about.values.accountability'), 
-      description: "We take responsibility for our actions and are accountable to our students and society." 
+    {
+      icon: <Clock className="h-8 w-8 text-success-500" />,
+      title: t('about.values.accountability'),
+      description: "We take responsibility for our actions and are accountable to our students and society."
     }
   ];
 

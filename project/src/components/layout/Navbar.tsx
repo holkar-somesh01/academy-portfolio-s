@@ -49,11 +49,10 @@ const Navbar: React.FC = () => {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled
-          ? 'bg-white dark:bg-gray-900 shadow-md'
-          : 'bg-transparent'
-      }`}
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled
+        ? 'bg-white dark:bg-gray-900 shadow-md'
+        : 'bg-transparent'
+        }`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
@@ -70,16 +69,15 @@ const Navbar: React.FC = () => {
           </Link>
 
           {/* Desktop Navigation */}
-          <nav className="hidden md:flex space-x-1">
+          <nav className="hidden md:flex md:gap-5 space-x-1">
             {navLinks.map((link) => (
               <Link
                 key={link.to}
                 to={link.to}
-                className={`px-3 py-2 rounded-md text-sm font-medium transition-colors duration-300 ${
-                  location.pathname === link.to
-                    ? 'text-primary-500 dark:text-primary-400 bg-primary-50 dark:bg-gray-800'
-                    : 'text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800'
-                }`}
+                className={`px-4 py-2 rounded-md text-sm font-medium transition-colors duration-300 ${location.pathname === link.to
+                  ? 'text-primary-500 dark:text-primary-400 bg-primary-50 dark:bg-gray-800'
+                  : 'text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800'
+                  }`}
               >
                 {link.label}
               </Link>
@@ -119,11 +117,10 @@ const Navbar: React.FC = () => {
               <Link
                 key={link.to}
                 to={link.to}
-                className={`block px-3 py-2 rounded-md text-base font-medium ${
-                  location.pathname === link.to
-                    ? 'text-primary-500 dark:text-primary-400 bg-primary-50 dark:bg-gray-800'
-                    : 'text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800'
-                }`}
+                className={`block px-3 py-2 rounded-md text-base font-medium ${location.pathname === link.to
+                  ? 'text-primary-500 dark:text-primary-400 bg-primary-50 dark:bg-gray-800'
+                  : 'text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800'
+                  }`}
               >
                 {link.label}
               </Link>
